@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Homepage",
       "isDefault": true
+    },
+    {
+      "id": "testPage",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -10,6 +14,9 @@
   "unreadCommentThreads": 0,
   "color": "#F5D1D1",
   "icon": "shake-hands",
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  },
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
